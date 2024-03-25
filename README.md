@@ -1,4 +1,6 @@
-### Hi there 👋
+### howdy
+
+i am some random dude that can kinda code
 
 <!--
 **notHankCraft/notHankCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
